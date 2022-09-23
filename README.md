@@ -15,7 +15,7 @@ user friendly web apps through html, css and javascript.
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="25" height="25" > **About my repos** :
 
 **_[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinaVenasco&layout=compact)](https://github.com/MartinaVenasco)_**
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinaVenasco&show_icons=true&count_private=true" alt="MartinaVenasco" width="50%"/></p>
 
 
 
