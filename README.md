@@ -27,12 +27,13 @@ To view my projects visit my website and my social networks and contact me for n
                 
 <h3 align="left"> <b> CONNECT WITH ME: <b> </h3>  
 <p align="left">
- <a href="https://www.linkedin.com/in/martina-venasco/" target="blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/martina-venasco/" height="30" width="30" />  <span>  <b>    My LinkedIn </span> <b> </a> 
+ <a href="https:/linkedin.com/in/martina-venasco/" target="blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/martina-venasco/" height="30" width="30" />  <span>  <b>    My LinkedIn </span> <b> </a> 
   
-  <a href="https://instagram.com/mv_visualdesigner/" target="blank"> <img align="center" src= "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="[[https://www.linkedin.com/in/martina-venasco/](https://fb.com/https://www.facebook.com/mv.visualdesigner](https://instagram.com/https://www.instagram.com/mv_visualdesigner/))" height="30" width="30" />   <span> </span> <span>   <b>   My Instagram <b> </span> </a> 
+  <a href="https://instagram.com/mv_visualdesigner/" target="blank"> <img align="center" src= "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://instagram.com/mv_visualdesigner/" height="30" width="30" />   <span> </span> <span>   <b>   My Instagram <b> </span> </a> 
   <br>
   
-<a href="https://facebook.com/mv.visualdesigner" target="blank"> <img align="center" src= "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="[https://www.linkedin.com/in/martina-venasco/](https://fb.com/https://www.facebook.com/mv.visualdesigner)" height="30" width="30" />  <span>    <b>  My Facebook<b></span></a>    
+<a href="https://facebook.com/mv.visualdesigner" target="blank"> <img align="center" src= "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://facebook.com/mv.visualdesigner" height="30" width="30" />  <span>    <b>  My Facebook<b></span></a>    
   <br>
-    <img src="https://static.vecteezy.com/system/resources/previews/001/197/986/original/globe-grid-logo-png.png" width="31" height="31" >      [www.martinavenasco.it](www.martinavenasco.it)
+    <img src="https://static.vecteezy.com/system/resources/previews/001/197/986/original/globe-grid-logo-png.png" width="31" height="31" >    
+<a href="https://martinavenasco.it" target="blank">
 
