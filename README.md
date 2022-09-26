@@ -35,5 +35,5 @@ To view my projects visit my website and my social networks and contact me for n
 <a href="https://facebook.com/mv.visualdesigner" target="blank"> <img align="center" src= "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://facebook.com/mv.visualdesigner" height="30" width="30" />  <span>    <b>  My Facebook<b></span></a>    
   <br>
       
-<a href="https://martinavenasco.it" target="blank"> <img src="https://static.vecteezy.com/system/resources/previews/001/197/986/original/globe-grid-logo-png.png" width="31" height="31" > </a><span>    <b>  www.martinavenasco.it k<b></span></a> 
+<a href="https://martinavenasco.it" target="blank"> <img src="https://static.vecteezy.com/system/resources/previews/001/197/986/original/globe-grid-logo-png.png" width="31" height="31" > </a><span>    <b>  www.martinavenasco.it <b></span></a> 
 
